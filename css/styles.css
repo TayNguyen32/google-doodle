@@ -6,20 +6,12 @@
 */
 
 * {
-    outline: 1px dotted black;
+  outline: 1px dotted black;
 }
 
 /* Doodle Stage */
 #stage {
   background: #ccc;
-  height: 300px;
-  width: 600px;
-}
-
-#heart1 {
-  fill: red;
-}
-
-#heart2 {
-  fill: green;
+  height: 400px;
+  width: 800px;
 }
