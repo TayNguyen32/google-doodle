@@ -37,3 +37,22 @@ h1 {
   padding-top: 425px;
   z-index: 2;
 }
+
+#main-bats {
+  /* bats bigger */
+  position: absolute;
+  left: 49.78%;
+  right: 27.22%;
+  top: 57.5%;
+  bottom: 10%;
+  z-index: 3;
+}
+
+/* batman signal */
+#bat-light {
+  position: absolute;
+  left: 41%;
+  right: 61.67%;
+  top: 18.17%;
+  bottom: 77.93%;
+}
