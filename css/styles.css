@@ -19,7 +19,7 @@
 
 #main-body {
   position: absolute;
-  top: 278px;
+  top: 183px;
 }
 
 h1 {
@@ -51,8 +51,7 @@ h1 {
 /* batman signal */
 #bat-light {
   position: absolute;
-  left: 41%;
+  left: 38.7%;
   right: 61.67%;
-  top: 18.17%;
-  bottom: 77.93%;
+  top: 80px;
 }
