@@ -13,13 +13,13 @@
 #stage {
   background: linear-gradient(180deg, #231f20 0%, rgba(255, 255, 255, 0) 100%),
     rgba(21, 103, 227, 0.3);
-  height: 589px;
+  height: 550px;
   width: 900px;
 }
 
 #main-body {
-  position: absolute;
-  top: 183px;
+  position: relative;
+  bottom: 10px;
 }
 
 h1 {
@@ -32,18 +32,18 @@ h1 {
   /* batman yellow */
   color: #fde311;
   position: relative;
+  top: 73%;
   margin-top: 0px;
   margin-bottom: 0px;
-  padding-top: 425px;
   z-index: 2;
 }
 
 #main-bats {
   /* bats bigger */
-  position: absolute;
+  position: relative;
   left: 49.78%;
   right: 27.22%;
-  top: 59%;
+  bottom: 28%;
   z-index: 3;
 }
 
@@ -52,5 +52,5 @@ h1 {
   position: absolute;
   left: 38.7%;
   right: 61.67%;
-  top: 80px;
+  top: 9.5%;
 }
