@@ -28,8 +28,6 @@ h1 {
   font-weight: normal;
   font-size: 144px;
   text-align: center;
-
-  /* batman yellow */
   color: #fde311;
   position: relative;
   top: 73%;
@@ -53,4 +51,11 @@ h1 {
   left: 38.7%;
   right: 61.67%;
   top: 9.5%;
+}
+
+#moving-bat {
+  position: relative;
+  bottom: 167px;
+  right: 95px;
+  z-index: 4;
 }
