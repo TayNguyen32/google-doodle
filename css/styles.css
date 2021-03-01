@@ -9,11 +9,15 @@
   outline: 1px dotted black;
 }
 
+
+
 /* Doodle Stage */
 #stage {
   height: 550px;
   width: 900px;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
 
 #main-body {
   position: relative;
@@ -49,6 +53,7 @@ h1 {
   left: 38.7%;
   right: 61.67%;
   top: 9.5%;
+  z-index: 5;
 }
 
 #moving-bat {
