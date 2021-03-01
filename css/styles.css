@@ -5,14 +5,12 @@
   * Outline Elements
 */
 
-* {
+/* {
   outline: 1px dotted black;
 }
 
 /* Doodle Stage */
 #stage {
-  background: linear-gradient(180deg, #231f20 0%, rgba(255, 255, 255, 0) 100%),
-    rgba(21, 103, 227, 0.3);
   height: 550px;
   width: 900px;
 }
