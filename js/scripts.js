@@ -10,7 +10,7 @@ let tl1 = gsap.timeline();
 let tl2 = gsap.timeline();
 
 // Box 1
-tl1.to("#moving-bat", { x: 670, duration: 2, delay: 3.5 });
+tl1.to("#moving-bat", { x: 670, duration: 1.5, delay: 3.5 });
 
 tl1.to("#moving-bat", {
   rotation: 180
@@ -19,7 +19,7 @@ tl1.to("#moving-bat", {
 tl1.to("#moving-bat", {
   x: -70,
   rotation: 180,
-  duration: 2
+  duration: 1.5
 });
 
 tl1.to("#moving-bat", {
