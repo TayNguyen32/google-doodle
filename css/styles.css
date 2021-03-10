@@ -43,22 +43,20 @@ h1 {
   position: relative;
   left: 49.78%;
   right: 27.22%;
-  bottom: 28%;
+  bottom: 245px;
   z-index: 3;
 }
 
 /* batman signal */
 #bat-light {
-  position: absolute;
-  left: 38.7%;
-  right: 61.67%;
-  top: 9.5%;
-  z-index: 5;
+  position: relative;
+  bottom: 520px;
+  left: 65px;
 }
 
 #moving-bat {
   position: relative;
-  bottom: 167px;
-  right: 95px;
+  bottom: 255px;
+  right: 300px;
   z-index: 4;
 }
