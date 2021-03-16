@@ -4,12 +4,7 @@
   * Change Background Color
   * Outline Elements
 */
-
-/* {
-  outline: 1px dotted black;
-}
-
-
+@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
 
 /* Doodle Stage */
 #stage {
@@ -17,15 +12,13 @@
   width: 900px;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Bungee&display=swap");
-
 #main-body {
   position: relative;
   bottom: 10px;
 }
 
 h1 {
-  font-family: Bungee;
+  font-family: "Bungee", cursive;
   font-style: normal;
   font-weight: normal;
   font-size: 144px;
