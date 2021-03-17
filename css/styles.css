@@ -10,6 +10,7 @@
 #stage {
   height: 550px;
   width: 900px;
+  overflow: hidden;
 }
 
 #main-body {
